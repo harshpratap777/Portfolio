@@ -4,7 +4,7 @@ Welcome to my **Personal Portfolio**! This website showcases my web development 
 
 ## 🔗 Live Preview
 
-🌍 [Click here to view live](https://harshpratap777.github.io/Portfolio/)
+🌍 [Click here to view live](https://rawcdn.githack.com/harshpratap777/Portfolio/4d90f322e359d2161d737f0f89a7f5645091e6e4/index.html)
 
 ---
 
